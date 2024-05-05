@@ -9,6 +9,15 @@ Tutor: Nancy Villena Reines
 Docente: Anderson Torres
 
 ---
+### **Contenido:**
+
+- La base de datos contiene:
+    *  10 tablas.
+    *  4 vistas.
+    *  4 stored procedure.
+    *  2  trigger.
+    *  3 funciones
+---
 
 ### **Temática:**
 
